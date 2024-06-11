@@ -1,6 +1,6 @@
 
 
-```
+
 Stock Price Prediction Web Application
 
 ##Overview
@@ -66,7 +66,7 @@ stock-price-prediction-web-app/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project README file
 └── ...
-```
+
 
 ## Contributing
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
