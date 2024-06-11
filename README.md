@@ -1,4 +1,4 @@
-Sure! Below is a README file for the provided code along with a detailed guide:
+
 
 ```
 # Stock Price Prediction Web Application
