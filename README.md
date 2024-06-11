@@ -65,7 +65,8 @@ stock-price-prediction-web-app/
 ├── app.py               # Main Streamlit application script
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project README file
-└── '''
+└──  
+'''
 
 
 ## Contributing
