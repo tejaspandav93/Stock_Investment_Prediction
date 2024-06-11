@@ -3,7 +3,7 @@
 ```
 Stock Price Prediction Web Application
 
-## Overview
+##Overview
 The Stock Price Prediction Web Application is a tool developed using Streamlit and Python to predict future stock prices based on historical data. It utilizes machine learning techniques, particularly the XGBoost regressor, to forecast stock prices and provides users with insights into potential investment opportunities. This README provides a detailed guide on setting up and using the application.
 
 ## Features
