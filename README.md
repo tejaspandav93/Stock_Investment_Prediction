@@ -58,15 +58,6 @@ The Stock Price Prediction Web Application is a tool developed using Streamlit a
 - Enter the stock symbol (e.g., AAPL).
 - Click the "Fetch Info" button to retrieve detailed information about the stock ticker, including sector, industry, market cap, etc.
 
-## Directory Structure
-'''
-stock-price-prediction-web-app/
-│
-├── app.py               # Main Streamlit application script
-├── requirements.txt     # Python dependencies
-├── README.md            # Project README file
-└──  
-'''
 
 
 ## Contributing
